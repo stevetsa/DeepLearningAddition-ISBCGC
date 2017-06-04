@@ -1,0 +1,3 @@
+pythonscript: 
+  class: File
+  path: ./seq2seq_addition_example.py

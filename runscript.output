@@ -1,0 +1,13 @@
+Sun Jun  4 14:01:35 UTC 2017
+{
+    "output": {
+        "checksum": "sha1$b7594303d666073a9e1d0d5999dc80749d540c0c", 
+        "basename": "output.txt", 
+        "http://commonwl.org/cwltool#generation": 0, 
+        "location": "file:///home/stevehtsang/DeepLearningAddition-ISBCGC/output.txt", 
+        "path": "/home/stevehtsang/DeepLearningAddition-ISBCGC/output.txt", 
+        "class": "File", 
+        "size": 626198
+    }
+}
+Sun Jun  4 14:07:34 UTC 2017
